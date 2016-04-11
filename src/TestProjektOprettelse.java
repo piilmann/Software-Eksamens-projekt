@@ -6,5 +6,7 @@ import org.junit.Test;
 public class TestProjektOprettelse {
 
 	@Test
-	public void 
+	public void TestProjektOprettelse(){
+		
+	}
 }
